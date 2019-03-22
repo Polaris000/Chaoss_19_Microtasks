@@ -45,9 +45,9 @@ progit2-zh: 258
 
 ### [Microtask2](./microtask2)
 
-### [Microtask7](./microtask7)
+### [Microtask7](./microtask7/microtask7.md)
 
-### [Microtask8](./microtask8)
+### [Microtask8](./microtask8/microtask8.md)
 
 ## About me
 My name is Aniruddha Karajgi. I am in my second year studying Bachelor of Engineering (B.E.) Computer Science at  
