@@ -8,7 +8,9 @@ This is the repository containing the microtask submissions for CHAOSS GSOC 2019
 ## My contributions and participation in CHAOSS
 I started contributing to CHAOSS in January, 2019. To avoid crowding out important information in this file, I 've mentioned all my contributions in [contributions.md](./contributions.md).
 
-
+Click on the Binder badge to run the notebooks in this repo in real time  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Polaris000/Chaoss_19_Microtasks/master)  
+  
 ## Microtasks
 
 ### Important Information
