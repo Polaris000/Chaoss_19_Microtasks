@@ -22,9 +22,4 @@ I started contributing to CHAOSS in January, 2019. To avoid crowding out importa
 
 ## About me
 My name is Aniruddha Karajgi. I am in my second year studying Bachelor of Engineering (B.E.) Computer Science at  
-Birla Institute of Technology and Science, Pilani. The university is located in Rajastan, India. 
-
-
-
-
-
+Birla Institute of Technology and Science, Pilani. I am from Mumbai, India, though my current place of residence is Hyderabad, India. 
