@@ -40,6 +40,12 @@
     [Fix a typo](https://github.com/chaoss/wg-gmd/pull/87)  
     > merged  
 
+## metrics  
+- ### Pull requests 
+    [improve readability and fix typos](https://github.com/chaoss/metrics/pull/130)  
+    > merged   
+    
+
 ## governance  
 - ### Pull requests  
     [update broken link to sample project](https://github.com/chaoss/governance/pull/79)  
