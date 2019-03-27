@@ -1,6 +1,8 @@
 # Contributions by repository  
 
+Apart from the more tangible ways of contributing (issues and pull requests), I have participated by looking up old unattended issues, fixing broken links in issues and helping other GSOC aspirants by answering their queries in the idea's discussion issue (wg-gmd #81)
 
+    
 ## Grimoirelab tutorial  
 - ### Issues  
     [favicon not appearing on grimoire-lab tutorial website](https://github.com/chaoss/grimoirelab-tutorial/issues/57)   
@@ -29,6 +31,10 @@
 
 
 ## wg-gmd  
+
+- ### Issues
+    [[metrics] Difference between Proposals_Accepted and Proposal_Acceptance](https://github.com/chaoss/wg-gmd/issues/117)
+
 - ### Pull requests
     **Worked on the reference implementation [Code_Changes-Git.ipynb](https://github.com/chaoss/wg-gmd/pull/88/files#diff-831007f91562e711d3db5566fd863094)**    
     **[Set sort to False based on analysis in pull request #88](https://github.com/chaoss/wg-gmd/pull/94)**  
@@ -39,6 +45,16 @@
     
     [Fix a typo](https://github.com/chaoss/wg-gmd/pull/87)  
     > merged  
+
+    [Found a few minor typos while doing research for my proposal](https://github.com/chaoss/wg-gmd/pull/115)  
+    > open 
+    
+    [Improve wording and fix a typo](https://github.com/chaoss/wg-gmd/pull/114)  
+    > merged 
+    
+    **The proposed changes had been included in an open pull request, submitted a few hours before this one**
+    [Found typo while going through the file](https://github.com/chaoss/wg-gmd/pull/113)  
+    > closed 
 
 ## metrics  
 - ### Pull requests 
