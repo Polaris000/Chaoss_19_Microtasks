@@ -64,6 +64,11 @@ The total number of pull-requests is:
 - The repositories are to be sorted based on the total number of items (commits, issues and pull requests) created in the last 3 months.
 - Please click on the microtask heading to proceed to the microtask directory 
 
+### [Microtask6](./microtask6)  
+- The aim of this microtask is to perform an analysis of my choice using the data fetched by perceval. 
+- I chose to perform an analysis regarding the issues from the data: number of open and closed issues, age of open issues etc.
+- Please click on the microtask heading to proceed to the microtask directory 
+
 #### Optional Microtasks
 ### [Microtask7]()
 - The aim of this microtask is to contribute to any grimoirelab tools  
