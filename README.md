@@ -22,10 +22,11 @@ Data is collected from the progit project on github. Specifically, the repositor
 
 **- progit2-ru**
 **- progit2-zh** 
-
-The data was fetched at: `Time: 12:13:41 Date: 20/03/2019` 
-
-**Breakdown:**  
+  
+The data was fetched at:     
+- `2019-03-30 11:49:00` (Indian Standard Time)  
+- `2019-03-30 06:19:00` (UTC)  
+**Breakdown:**    
 The total number of commits is:  
 `progit2-ru: 1292`  
 `progit2-zh: 1732`  
