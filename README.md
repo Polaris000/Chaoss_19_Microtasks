@@ -15,33 +15,33 @@ Click on the Binder badge to run the notebooks in this repo in real time
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Polaris000/Chaoss_19_Microtasks/master) 
 
 ### Important Information
-- **Project used: progit**
+- **Project used: atom**
 
-- **Data**
-Data is collected from the progit project on github. Specifically, the repositories used were:
+- **Data**  
+Specifically, the repositories used were:   
+- [language-java](https://github.com/atom/language-java)  
+- [teletype](https://github.com/atom/teletype)    
+The data was fetched at: 
+- `2019-03-30 18:42:51` (Indian Standard Time)     
+- `2019-03-30 13:12:51` (UTC)  
 
-**- progit2-ru**
-**- progit2-zh** 
-  
-The data was fetched at:     
-- `2019-03-30 11:49:00` (Indian Standard Time)  
-- `2019-03-30 06:19:00` (UTC)  
-**Breakdown:**    
-The total number of commits is:  
-`progit2-ru: 1292`  
-`progit2-zh: 1732`  
-  
-The total number of issues is:  
-`progit2-ru: 218`  
-`progit2-zh: 366`  
-  
-The total number of pull-requests is:  
-`progit2-ru: 218`  
-`progit2-zh: 258`  
+### Some numbers (from the analysis in this notebook): 
+**The total number of commits is**:   
+    language-java: 336  
+    teletype: 1102  
+      
+**The total number of issues is**:   
+    language-java: 96  
+    teletype: 300  
+      
+**The total number of pull-requests is**:       
+    language-java: 99  
+    teletype: 130  
   
 **- Files:**    
-    - 'progit.json' -- the data collected by perceval  
-    - 'progit.csv' -- the result of writing data to csv for microtask 1 and 2  
+    - 'atom.json' -- the data collected by perceval  
+    - 'atom.csv' -- the result of writing data to csv for microtask 1 and 2  
+    - 'atom_last_3_months.csv' -- csv output of microtask 4 and 5
 
 ### [Microtask0](./microtask0)  
 - The aim of this microtask is to understand the basics of perceval.    
@@ -63,21 +63,21 @@ The total number of pull-requests is:
 ### [Microtask5](./microtask5)  
 - The aim of this microtask is to analyse changes for all repositories for the last 3 months using pandas. 
 - The repositories are to be sorted based on the total number of items (commits, issues and pull requests) created in the last 3 months.
-- Please click on the microtask heading to proceed to the microtask directory 
+- Please click on the microtask heading to proceed to the microtask directory.   
 
 ### [Microtask6](./microtask6)  
 - The aim of this microtask is to perform an analysis of my choice using the data fetched by perceval. 
 - I chose to perform an analysis regarding the issues from the data: number of open and closed issues, age of open issues etc.
-- Please click on the microtask heading to proceed to the microtask directory 
+- Please click on the microtask heading to proceed to the microtask directory.   
 
 #### Optional Microtasks
 ### [Microtask7]()
-- The aim of this microtask is to contribute to any grimoirelab tools  
+- The aim of this microtask is to contribute to any grimoirelab tools.  
 - Please check [contributions.md](./contributions.md) for all of my contributions.
   
 ### [Microtask8]()  
-- The aim of this microtask is to contribute to wg-gmd  
-- Please check the [wg-gmd section of contributions.md](./contributions.md#wg-gmd)  
+- The aim of this microtask is to contribute to wg-gmd.    
+- Please check the [wg-gmd section of contributions.md](./contributions.md#wg-gmd) for my contributions to wg-gmd. 
   
 ## About me  
 - My name is **Aniruddha Karajgi**. I am in my **second year studying Bachelor of Engineering (B.E.) Computer Science** at  
