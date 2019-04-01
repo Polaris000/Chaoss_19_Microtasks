@@ -6,12 +6,12 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
 ## Grimoirelab tutorial  
 - ### Issues  
     [favicon not appearing on grimoire-lab tutorial website](https://github.com/chaoss/grimoirelab-tutorial/issues/57)   
-    > open   
+    > resolved   
 
 - ### Pull requests
 
     [Fix for issue number #57](https://github.com/chaoss/grimoirelab-tutorial/pull/58)  
-    > open  
+    > merged  
 
     **Understood a good amount of the perceval source code and fixed this:   
               [Fix inconsistency between perceval tutorial and code](https://github.com/chaoss/grimoirelab-tutorial/pull/62)**  
@@ -33,9 +33,14 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
 ## wg-gmd  
 
 - ### Issues
-    [[metrics] Difference between Proposals_Accepted and Proposal_Acceptance](https://github.com/chaoss/wg-gmd/issues/117)
-
+    [[metrics] Difference between Proposals_Accepted and Proposal_Acceptance](https://github.com/chaoss/wg-gmd/issues/117)  
+    > resolved  
+  
 - ### Pull requests
+  
+    [fix #117](https://github.com/chaoss/wg-gmd/pull/123)    
+    > merged     
+  
     **Worked on the reference implementation [Code_Changes-Git.ipynb](https://github.com/chaoss/wg-gmd/pull/88/files#diff-831007f91562e711d3db5566fd863094)**    
     **[Set sort to False based on analysis in pull request #88](https://github.com/chaoss/wg-gmd/pull/94)**  
     > merged   
@@ -47,7 +52,7 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
     > merged  
 
     [Found a few minor typos while doing research for my proposal](https://github.com/chaoss/wg-gmd/pull/115)  
-    > open 
+    > merged
     
     [Improve wording and fix a typo](https://github.com/chaoss/wg-gmd/pull/114)  
     > merged 
@@ -74,10 +79,12 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
 - ### Issues 
     **Understood a good amount of the perceval source code and raised this:   
     [[github] perceval commandline auth by user and assword](https://github.com/chaoss/grimoirelab-perceval/issues/483)**
-    > closed  
+    > resolved  
 
-
-## SortingHat  
+    [Extra commits fetched by perceval](https://github.com/chaoss/grimoirelab-perceval/issues/500)  
+    > resolved  
+  
+## SortingHat    
 - ### Pull requests  
     [Fix a few grammatical errors in README.md](https://github.com/chaoss/grimoirelab-sortinghat/pull/181)  
     > merged  

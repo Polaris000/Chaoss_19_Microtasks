@@ -19,11 +19,12 @@ Click on the Binder badge to run the notebooks in this repo in real time
 
 - **Data**  
 Specifically, the repositories used were:   
-- [language-java](https://github.com/atom/language-java)  
-- [teletype](https://github.com/atom/teletype)    
-The data was fetched at: 
-- `2019-03-30 18:42:51` (Indian Standard Time)     
-- `2019-03-30 13:12:51` (UTC)  
+    - [language-java](https://github.com/atom/language-java)  
+    - [teletype](https://github.com/atom/teletype)    
+
+- The data was fetched at: 
+    - `2019-03-30 18:42:51` (Indian Standard Time)     
+    - `2019-03-30 13:12:51` (UTC)  
 
 ### Some numbers (from the analysis in this notebook): 
 **The total number of commits is**:   
@@ -71,18 +72,38 @@ The data was fetched at:
 - Please click on the microtask heading to proceed to the microtask directory.   
 
 #### Optional Microtasks
-### [Microtask7]()
+### [Microtask7](./)
 - The aim of this microtask is to contribute to any grimoirelab tools.  
 - Please check [contributions.md](./contributions.md) for all of my contributions.
   
-### [Microtask8]()  
+### [Microtask8](./)  
 - The aim of this microtask is to contribute to wg-gmd.    
 - Please check the [wg-gmd section of contributions.md](./contributions.md#wg-gmd) for my contributions to wg-gmd. 
   
 ## About me  
 - My name is **Aniruddha Karajgi**. I am in my **second year studying Bachelor of Engineering (B.E.) Computer Science** at  
-Birla Institute of Technology and Science, Pilani. I am from Mumbai, India, though my current place of residence is Hyderabad, India. 
+Birla Institute of Technology and Science, Pilani, located in the state of Rajasthan, India. I was born in Mumbai, though my current place of residence is Hyderabad, India. 
 - I have been programming in python for two years now. 
-- At college, I am a **member of two technical club**, where I **work on backend development using Django** and **machine learning** (with python). I have **conducted a workshop** on the same. 
+- At college, I am a **member of two technical clubs**, where I **work on backend development using Django** and **machine learning** (with python). I have **conducted a workshop** on the same. 
 - During the summer after my freshman year at college, I **interned at CereLabs**, a startup working on deep learning applications, where I helped implement deep learning models (GANS), mainly by making data ready for the models and researching the effectiveness of those models. I also worked on cleaning and understanding open street map data, which was to be used for parsing addresses with NLP. I extensively used numpy, pandas and matplotlib during the internship.
 
+## Using this repository
+- Run `git clone https://github.com/Polaris000/Chaoss_19_Microtasks.git`  
+- Install perceval  
+    `pip3 install perceval`
+- Navigate to the microtask of your interest, say, microtask0.   
+    `cd microtask0`
+- Start the `microtask0.ipynb` notebook with jupyter
+- Set the variables to your preference (if you want to run it on some other data) in code cell #2
+
+```python
+github_url = "https://github.com/"  # the github url domain: used for generating repo_urls     
+owner = "atom"   
+repos_used = ["language-java", "teletype"]   
+repo_urls = [github_url + owner + "/" + repo_used for repo_used in repos_used]    
+auth_token = "" # Please enter your github token here   
+file_name = owner + ".json"   # file to which perceval stores data (a ../ is   automatically added)  
+```
+
+- Next, uncomment the script in code cell #3 and run it. Rememeber that if you have `owner = "atom"` in the previous cell and you run the commented cell, the current data fetched by perceval will be overwritten.
+- Of course, there is no such problem if you intend to use this script for a different owner. 
