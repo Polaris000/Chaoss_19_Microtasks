@@ -72,11 +72,11 @@ Specifically, the repositories used were:
 - Please click on the microtask heading to proceed to the microtask directory.   
 
 #### Optional Microtasks
-### [Microtask7](./)
+### Microtask7  
 - The aim of this microtask is to contribute to any grimoirelab tools.  
 - Please check [contributions.md](./contributions.md) for all of my contributions.
   
-### [Microtask8](./)  
+### Microtask8  
 - The aim of this microtask is to contribute to wg-gmd.    
 - Please check the [wg-gmd section of contributions.md](./contributions.md#wg-gmd) for my contributions to wg-gmd. 
   
