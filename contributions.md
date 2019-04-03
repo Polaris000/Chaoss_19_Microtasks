@@ -37,11 +37,15 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
     > resolved  
   
 - ### Pull requests
+
+    **Added steps to use DCO browswer plugin to CONTRIBUTING.md**    
+    **[DCO-plugin]add DCO browser plugin instructions to CONTRIBUTING.md](https://github.com/chaoss/wg-gmd/pull/127)**  
+    > open
   
     [fix #117](https://github.com/chaoss/wg-gmd/pull/123)    
     > merged     
   
-    **Worked on the reference implementation [Code_Changes-Git.ipynb](https://github.com/chaoss/wg-gmd/pull/88/files#diff-831007f91562e711d3db5566fd863094)**    
+    **Worked on the reference implementation [Code_Changes-Git.ipynb](https://github.com/chaoss/wg-gmd/blob/master/implementations/Code_Changes-Git.ipynb)**    
     **[Set sort to False based on analysis in pull request #88](https://github.com/chaoss/wg-gmd/pull/94)**  
     > merged   
     
