@@ -33,14 +33,20 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
 ## wg-gmd  
 
 - ### Issues
-    [[metrics] Difference between Proposals_Accepted and Proposal_Acceptance](https://github.com/chaoss/wg-gmd/issues/117)  
-    > resolved  
+    [[metrics] Difference between Proposals_Accepted and Proposal_Acceptance](https://github.com/chaoss/wg-gmd/issues/117)   
+    > resolved      
+      
+    [[feature] Testing repositories based on reference implementations](https://github.com/chaoss/wg-gmd/issues/136#issuecomment-481141477)    
+    > open
+    
+    [[metrics] Understanding Contributing Organizations and Sub-Projects metrics](https://github.com/chaoss/wg-gmd/issues/133)  
+    > open
   
 - ### Pull requests
 
     **Added steps to use DCO browswer plugin to CONTRIBUTING.md**    
-    **[DCO-plugin]add DCO browser plugin instructions to CONTRIBUTING.md](https://github.com/chaoss/wg-gmd/pull/127)**  
-    > open
+    **[DCO-plugin]add DCO browser plugin instructions to CONTRIBUTING.md](https://github.com/chaoss/wg-gmd/pull/127)** 
+    > merged
   
     [fix #117](https://github.com/chaoss/wg-gmd/pull/123)    
     > merged     
