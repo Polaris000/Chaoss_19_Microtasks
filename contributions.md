@@ -1,6 +1,6 @@
 # Contributions by repository  
 
-Apart from the more tangible ways of contributing (issues and pull requests), I have participated by looking up old unattended issues, fixing broken links in issues and helping other GSOC aspirants by answering their queries in the idea's discussion issue (wg-gmd #81)
+Apart from the more tangible ways of contributing (issues and pull requests), I have participated by looking up old unattended issues, fixing broken links in issues and helping other GSOC aspirants by answering their queries in the idea's discussion issue (wg-gmd #81). I also participate in the weekly or bi-weekly community calls. 
 
     
 ## Grimoirelab tutorial  
@@ -97,5 +97,13 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
 ## SortingHat    
 - ### Pull requests  
     [Fix a few grammatical errors in README.md](https://github.com/chaoss/grimoirelab-sortinghat/pull/181)  
-    > merged  
+    > merged    
+      
+## website   
+- ### Issues  
+    [Lack of a favicon for the website](https://github.com/chaoss/website/issues/163)  
+    > open    
+    
+    [Check your local time for Value call inconsistent](https://github.com/chaoss/website/issues/162)    
+    > open  
 
