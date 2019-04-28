@@ -91,9 +91,19 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
     [[github] perceval commandline auth by user and assword](https://github.com/chaoss/grimoirelab-perceval/issues/483)**
     > resolved  
 
-    [Extra commits fetched by perceval](https://github.com/chaoss/grimoirelab-perceval/issues/500)  
-    > resolved  
+    [Extra commits fetched by perceval](https://github.com/chaoss/grimoirelab-perceval/issues/500)    
+    > resolved    
+      
+    **adds functionality to include pull request reviews when fetching pull pull request data with Perceval**  
+    [[feature] Include comments from /reviews in pull_request fetched by Perceval](https://github.com/chaoss/grimoirelab-perceval/issues/516)      
+    > open       
   
+- ### Pull requests       
+    **Fixes #516**  
+    [Add and modify methods to enable fetching pull request reviews](https://github.com/chaoss/grimoirelab-perceval/pull/519)   
+    > open  
+    
+
 ## SortingHat    
 - ### Pull requests  
     [Fix a few grammatical errors in README.md](https://github.com/chaoss/grimoirelab-sortinghat/pull/181)  
