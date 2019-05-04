@@ -96,12 +96,12 @@ Apart from the more tangible ways of contributing (issues and pull requests), I 
       
     **adds functionality to include pull request reviews when fetching pull pull request data with Perceval**  
     [[feature] Include comments from /reviews in pull_request fetched by Perceval](https://github.com/chaoss/grimoirelab-perceval/issues/516)      
-    > open       
+    > resolved       
   
 - ### Pull requests       
     **Fixes #516**  
-    [Add and modify methods to enable fetching pull request reviews](https://github.com/chaoss/grimoirelab-perceval/pull/519)   
-    > open  
+    [Add and modify methods to enable fetching pull request reviews](https://github.com/chaoss/grimoirelab-perceval/pull/519)  
+    > merged  
     
 
 ## SortingHat    
